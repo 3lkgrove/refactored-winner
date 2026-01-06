@@ -1,2 +1,2 @@
-# refactored-winner
-Racing Timing Light with Remote Trigger.
+# Racing Timing Light with Remote Trigger
+More Coming Soon!
