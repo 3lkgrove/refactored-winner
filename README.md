@@ -1,5 +1,6 @@
 # Racing Timing Light with Remote Trigger
-More Coming Soon!
+
+<img src="PCB/KiCAD/refactored-winner/refactored-winner_02.png">
 
 ## Licensing
 
