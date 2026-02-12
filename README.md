@@ -1,4 +1,4 @@
-# Racing Timing Light with Remote Trigger
+# Race Timing Light with Remote Trigger
 
 <img src="PCB/KiCAD/refactored-winner/refactored-winner_02.png">
 

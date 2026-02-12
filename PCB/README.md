@@ -1,4 +1,4 @@
-# Racing Timing Light with Remote Trigger
+# Race Timing Light with Remote Trigger
 
 **MORE COMING SOON!**
 
