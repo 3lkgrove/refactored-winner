@@ -1,6 +1,17 @@
 # Race Timing Light with Remote Trigger
 
+## **Schematic**
+
+<img src="PCB/KiCAD/refactored-winner/refactored-winner.svg">
+
+## **PCB**
+
+<img src="PCB/KiCAD/refactored-winner/refactored-winner_01.png">
 <img src="PCB/KiCAD/refactored-winner/refactored-winner_02.png">
+
+## **Gerber Files**
+
+Gerber files can be found [HERE](PCB/KiCAD/refactored-winner/gerber_to_order).
 
 ## Licensing
 
